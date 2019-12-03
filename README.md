@@ -1,2 +1,2 @@
-# web-study-record
+# record
 2019.8.01
